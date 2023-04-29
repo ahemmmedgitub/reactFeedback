@@ -1,0 +1,32 @@
+/* Write your CSS code here. */
+.bg-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.text-container {
+  background-color: #ffffff;
+  background-size: cover;
+  padding: 20px;
+  border-radius: 10px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 28px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #0f172a;
+  text-align: center;
+}
+.ul-items {
+  display: flex;
+  flex-direction: row;
+}

@@ -1,0 +1,6 @@
+.list-items {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  background-color: red;
+}
