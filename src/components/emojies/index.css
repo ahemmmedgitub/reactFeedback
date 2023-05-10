@@ -2,5 +2,15 @@
   display: flex;
   flex-direction: column;
   list-style-type: none;
-  background-color: red;
+}
+.emoji-style {
+  height: 50px;
+  width: 50px;
+  margin-right: 60px;
+}
+.smaily-para {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: #1e293b;
 }
